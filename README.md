@@ -1,6 +1,6 @@
 # verb-front-matter [![NPM version](https://badge.fury.io/js/verb-front-matter.svg)](http://badge.fury.io/js/verb-front-matter)
 
-> Verb middleware for processing front mattern and adding data to the context.
+> Verb middleware for processing front matter and adding data to the context.
 
 **Heads up!** front-matter is handled in verb by default, this module can be used separately if you want to disable the defaults. 
 
@@ -15,6 +15,8 @@ npm i verb-front-matter --save
 ```js
 verb.use(require('verb-front-matter'));
 ```
+
+Verb uses [gray-matter], visit that project to see all available front-matter options.
 
 ## Run tests
 

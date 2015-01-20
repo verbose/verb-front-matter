@@ -1,6 +1,6 @@
 {
   "name": "verb-front-matter",
-  "description": "Verb middleware for processing front mattern and adding data to the context.",
+  "description": "Verb middleware for processing front matter and adding data to the context.",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/verb-front-matter",
   "author": {
